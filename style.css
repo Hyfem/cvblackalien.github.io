@@ -28,3 +28,6 @@ main p{
  tr, td, th{
     border: 1px solid blue;
  }
+ body{
+    font-size: large;
+ }
